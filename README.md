@@ -1,4 +1,6 @@
-## 🎧 My fedora personalization
+#
+![gif](image/optimized.gif)
+#
 
 **DE:** Gnome / Mutter
 
